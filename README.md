@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
-<h3 align="center">Software Engineer Undergrad</h3>
+<h3 align="center">iOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan2k2&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan2k2" /> </p>
 
