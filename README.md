@@ -1,11 +1,11 @@
 <h1 align="center">Zeeshan</h1>
 
 <p align="center">
-  I code 
+  <b>I code </b>
 </p>
 
 <p align="center">
-  <sub>SwiftUI • UIKit • AI</sub>
+  SwiftUI • UIKit • AI
 </p>
 
 <br>
