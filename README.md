@@ -13,7 +13,7 @@
 ### Currently Developing
 
 - [Swift GenUI](https://github.com/zeeshan2k2/Swift-GenUI)  
-Schema-driven native UI generation using local LLMs and UIKit.
+Schema-driven native UI generation using local LLMs and Swift UI.
 
 - [ByteForge](https://github.com/zeeshan2k2/ByteForge)  
 Exploring GGUF model compression and local AI tooling in C++.
