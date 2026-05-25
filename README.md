@@ -41,6 +41,10 @@ Exploring GGUF model compression and local AI tooling in C++.
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshanwaheed1" height="25" width="32" />
 </a>
 
+<a href="mailto:zeeshanwaheed.wz@gmail.com" target="blank">
+<img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" height="25" width="32" />
+</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=zeeshan2k2&label=Views&color=0e75b6&style=flat" alt="zeeshan2k2" />
