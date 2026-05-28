@@ -12,7 +12,7 @@
 
 ### Currently Developing
 
-- [Swift GenUI](https://github.com/zeeshan2k2/Swift-GenUI)  
+- [Swift GenUI](https://github.com/zeeshan2k2/SwiftGenUI)  
 Schema-driven native UI generation using local LLMs and Swift UI.
 
 - [ByteForge](https://github.com/zeeshan2k2/ByteForge)  
