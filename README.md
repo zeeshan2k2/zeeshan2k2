@@ -49,4 +49,7 @@ Exploring GGUF model compression and local AI tooling in C++.
 
 <img src="https://komarev.com/ghpvc/?username=zeeshan2k2&label=Views&color=0e75b6&style=flat" alt="zeeshan2k2" />
 
+<br>
+
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fzeeshan2k2&style=plastic)](https://rankistan.dev)
 </div>
