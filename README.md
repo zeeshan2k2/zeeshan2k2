@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zeeshan-ios.vercel.app">
+  <a href="https://zeeshanwaheed.dev/">
     Portfolio ↗
   </a>
 </p>
