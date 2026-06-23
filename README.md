@@ -18,8 +18,8 @@
 
 ### Currently Developing
 
-- [Swift GenUI](https://github.com/zeeshan2k2/SwiftGenUI)  
-Schema-driven native UI generation using LLMs and Swift UI.
+- Remins  
+A privacy-first iOS app that turns your camera roll into a personal memory feed.
 
 - [ByteForge](https://github.com/zeeshan2k2/ByteForge)  
 Exploring GGUF model compression and local AI tooling in C++.
