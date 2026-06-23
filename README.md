@@ -18,7 +18,7 @@
 
 ### Currently Developing
 
-- Remins  
+- Remins — Private Product   
 A privacy-first iOS app that turns your camera roll into a personal memory feed.
 
 - [ByteForge](https://github.com/zeeshan2k2/ByteForge)  
