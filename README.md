@@ -8,11 +8,11 @@
   SwiftUI • UIKit • AI
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://zeeshanwaheed.dev/">
     Portfolio ↗
   </a>
-</p>
+</p> -->
 
 <br>
 
