@@ -39,23 +39,16 @@ Exploring GGUF model compression and local AI tooling in C++.
 
 <div align="center">
 
-<a href="https://twitter.com/zeeshan_wz" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeshan_wz" height="25" width="32" />
-</a>
-
-<a href="https://linkedin.com/in/zeeshanwaheed1" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshanwaheed1" height="25" width="32" />
-</a>
-
-<a href="mailto:zeeshanwaheed.wz@gmail.com" target="blank">
-<img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" height="25" width="32" />
-</a>
+<a href="https://twitter.com/zeeshan_wz"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="28"></a>&nbsp;
+<a href="https://linkedin.com/in/zeeshanwaheed1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="28"></a>&nbsp;
+<a href="mailto:zeeshanwaheed.wz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="28"></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=zeeshan2k2&label=Views&color=0e75b6&style=flat" alt="zeeshan2k2" />
+<img src="https://komarev.com/ghpvc/?username=zeeshan2k2&label=Views&color=0e75b6&style=flat" alt="zeeshan2k2">
 
 <br>
 
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fzeeshan2k2&style=plastic)](https://rankistan.dev)
+
 </div>
