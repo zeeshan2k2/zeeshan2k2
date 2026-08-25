@@ -16,7 +16,7 @@
 
 <br>
 
-### Currently Developing
+<h2>Currently Developing</h2>
 
 - Remins — Private Product   
 A privacy-first iOS app that turns your camera roll into a personal memory feed.
@@ -29,7 +29,7 @@ Exploring GGUF model compression and local AI tooling in C++.
 
 <p align="center">
   <img 
-    height="145"
+    height="155"
     src="https://github-readme-streak-stats.herokuapp.com?user=zeeshan2k2&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=6E7681" 
   />
 </p>
@@ -39,9 +39,9 @@ Exploring GGUF model compression and local AI tooling in C++.
 
 <div align="center">
 
-<a href="https://twitter.com/zeeshan_wz"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="28"></a>&nbsp;
-<a href="https://linkedin.com/in/zeeshanwaheed1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="28"></a>&nbsp;
-<a href="mailto:zeeshanwaheed.wz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="28"></a>
+<a href="https://twitter.com/zeeshan_wz"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="38"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/zeeshanwaheed1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="38"></a>&nbsp;&nbsp;
+<a href="mailto:zeeshanwaheed.wz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="38"></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
